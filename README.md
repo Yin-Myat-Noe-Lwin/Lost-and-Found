@@ -2,13 +2,7 @@
 
 > A full-stack web application helping university students and staff report, track, and recover lost or found items on campus.
 
-![Java]
-![Spring Boot]
-![MySQL]
-![WebSocket]
-![JavaScript]
-![HTML5]
-![CSS3]
+[Java] [Spring Boot] [MySQL] [WebSocket] [JavaScript] [HTML5] [CSS3]
 
 ## Features
 
@@ -45,8 +39,15 @@
 
 Before you begin, ensure you have the following installed:
 
+- Java JDK 11 or higher
+- MySQL Server 8.0+
+- Maven
+- Git
+
+## Installation
+
+### 1. Clone the repository
 ```bash
-Java JDK 11 or higher
-MySQL Server 8.0+
-Maven 3.6+
-Git
+git clone https://github.com/yourusername/lost-and-found.git
+cd lost-and-found
+
