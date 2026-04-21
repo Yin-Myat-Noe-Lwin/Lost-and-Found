@@ -1,6 +1,6 @@
 # 🎓 Lost and Found - University Campus Platform
 
-> A full-stack web application helping university students and staff report, track, and recover lost or found items on campus.
+> A full-stack web application helping university students report, track, and recover lost or found items on campus.
 
 [Java] [Spring Boot] [MySQL] [WebSocket] [JavaScript] [HTML5] [CSS3]
 
