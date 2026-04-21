@@ -46,8 +46,31 @@ Before you begin, ensure you have the following installed:
 
 ## Installation
 
-### 1. Clone the repository
+### Step 1: Clone the repository
 ```bash
 git clone https://github.com/yourusername/lost-and-found.git
 cd lost-and-found
+```
 
+### Step 2: Create database in MySQL
+```bash
+sql
+CREATE DATABASE lost_and_found_db;
+```
+
+### Step 3: Import the SQL file
+
+### Step 4: Build the project
+```bash
+mvn clean install
+```
+
+### Step 5: Run the application
+```bash
+mvn spring-boot:run
+```
+
+### Step 6: Access the application
+```bash
+http://localhost:8080
+```
