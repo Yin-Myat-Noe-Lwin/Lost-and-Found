@@ -1,4 +1,4 @@
-# 🎓 Lost and Found - University Campus Platform
+# Lost and Found - University Campus Platform
 
 > A full-stack web application helping university students report, track, and recover lost or found items on campus.
 
